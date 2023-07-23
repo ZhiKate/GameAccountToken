@@ -1,0 +1,13 @@
+/home/kate/contract_example/game/target/ink/release/deps/obce_codegen-a4a0c62a011551e6.rmeta: /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs
+
+/home/kate/contract_example/game/target/ink/release/deps/libobce_codegen-a4a0c62a011551e6.rlib: /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs
+
+/home/kate/contract_example/game/target/ink/release/deps/obce_codegen-a4a0c62a011551e6.d: /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs /home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs
+
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/lib.rs:
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/definition.rs:
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/error.rs:
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/implementation.rs:
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/mock.rs:
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/types.rs:
+/home/kate/.cargo/git/checkouts/obce-633ec9403b524075/d452f6e/codegen/src/utils.rs:

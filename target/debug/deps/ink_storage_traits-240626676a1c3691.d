@@ -1,0 +1,11 @@
+/home/kate/contract_example/game/target/debug/deps/ink_storage_traits-240626676a1c3691.rmeta: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/impls/mod.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/storage.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/mod.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/impls.rs
+
+/home/kate/contract_example/game/target/debug/deps/libink_storage_traits-240626676a1c3691.rlib: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/impls/mod.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/storage.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/mod.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/impls.rs
+
+/home/kate/contract_example/game/target/debug/deps/ink_storage_traits-240626676a1c3691.d: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/impls/mod.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/storage.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/mod.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/impls.rs
+
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/lib.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/impls/mod.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/storage.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/mod.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_traits-4.2.1/src/layout/impls.rs:

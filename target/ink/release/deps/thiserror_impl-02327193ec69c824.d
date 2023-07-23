@@ -1,0 +1,12 @@
+/home/kate/contract_example/game/target/ink/release/deps/libthiserror_impl-02327193ec69c824.so: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/kate/contract_example/game/target/ink/release/deps/thiserror_impl-02327193ec69c824.d: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs:

@@ -1,0 +1,13 @@
+/home/kate/contract_example/game/target/debug/deps/bitflags-a6867a37ddbb9535.rmeta: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/iter.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/parser.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/traits.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/public.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/internal.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/external.rs
+
+/home/kate/contract_example/game/target/debug/deps/libbitflags-a6867a37ddbb9535.rlib: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/iter.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/parser.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/traits.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/public.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/internal.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/external.rs
+
+/home/kate/contract_example/game/target/debug/deps/bitflags-a6867a37ddbb9535.d: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/iter.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/parser.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/traits.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/public.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/internal.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/external.rs
+
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/lib.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/iter.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/parser.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/traits.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/public.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/internal.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.3/src/external.rs:

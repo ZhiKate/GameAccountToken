@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/kate/contract_example/game/target/ink/release/build/typenum-ca61ca987a614a35/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/kate/contract_example/game/target/ink/release/build/typenum-ca61ca987a614a35/out/op.rs

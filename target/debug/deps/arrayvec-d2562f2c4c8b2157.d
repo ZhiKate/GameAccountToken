@@ -1,0 +1,13 @@
+/home/kate/contract_example/game/target/debug/deps/arrayvec-d2562f2c4c8b2157.rmeta: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec_impl.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/array_string.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/char.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/errors.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/utils.rs
+
+/home/kate/contract_example/game/target/debug/deps/libarrayvec-d2562f2c4c8b2157.rlib: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec_impl.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/array_string.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/char.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/errors.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/utils.rs
+
+/home/kate/contract_example/game/target/debug/deps/arrayvec-d2562f2c4c8b2157.d: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec_impl.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/array_string.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/char.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/errors.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/utils.rs
+
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/lib.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec_impl.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/arrayvec.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/array_string.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/char.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/errors.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.4/src/utils.rs:

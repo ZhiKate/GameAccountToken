@@ -1,0 +1,13 @@
+/home/kate/contract_example/game/target/ink/release/deps/quote-5f9ca123a7133799.rmeta: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs
+
+/home/kate/contract_example/game/target/ink/release/deps/libquote-5f9ca123a7133799.rlib: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs
+
+/home/kate/contract_example/game/target/ink/release/deps/quote-5f9ca123a7133799.d: /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs /home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs
+
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/lib.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ext.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/format.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/ident_fragment.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/to_tokens.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/runtime.rs:
+/home/kate/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.31/src/spanned.rs:
